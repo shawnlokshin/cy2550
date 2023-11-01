@@ -1,1 +1,1 @@
-lokshin.s@northeastern.edu.shadow
+lokshin.s@northeastern.edu
